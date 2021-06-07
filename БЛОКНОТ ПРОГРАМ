@@ -1,5 +1,11 @@
 git checkout —track origin/main   -смена имени ветки
 
+git branch имя ветки dev       создать ветку новую
+
+$ git checkout  имя новой ветки dev   перейти на новую
+Switched to branch 'dev'
+
+
 git clone https:                  -делать клон для не авторизованных
 
 git pull                          -получить изминения 
