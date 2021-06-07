@@ -14,9 +14,9 @@ git commit -m " "                 -записать коментарий к из
                                                                                    Обратить вним на ветку( )
 git config --global user.name ""  -имя для регистрацыи                                   2. git clone  
 
-git config --global user.email "" -емейл
-
-git status                        -статус
+git config --global user.email "" -емейл                                    Отправка: выбрать правельную 
+                                                                              ветку ,add . ,commit -m " ",
+git status                        -статус                                    git push.
 
 git log                           -смотреть комиты
 
