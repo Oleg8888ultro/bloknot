@@ -1,4 +1,4 @@
-git checkout -—track origin/main   -смена имени ветки ПРИОРИТЕТ
+git checkout --track origin/main   -смена имени ветки ПРИОРИТЕТ
 
 git branch имя ветки dev       создать ветку новую
 
